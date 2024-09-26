@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="user_account" label="User Account" language="en" table="x_1540387_course_s_learner">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>user_account</element>
+            <help/>
+            <hint/>
+            <label>User Account</label>
+            <language>en</language>
+            <name>x_1540387_course_s_learner</name>
+            <plural>User Accounts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-25 08:07:14</sys_created_on>
+            <sys_id>0f26956e83f452107e535855eeaad35a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User Account</sys_name>
+            <sys_package display_value="Course Subscription" source="x_1540387_course_s">eef44d2683b452107e535855eeaad3e6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Course Subscription">eef44d2683b452107e535855eeaad3e6</sys_scope>
+            <sys_update_name>sys_documentation_x_1540387_course_s_learner_user_account_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-25 08:07:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="course-subscription Search Profile">6104c6ae4ef852105691dec7b1a9b9f2</profile>
+        <search_source display_value="Course">2b048aae83f852107e535855eeaad38a</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-25 11:27:42</sys_created_on>
+        <sys_id>e3048aae83f852107e535855eeaad38e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>course-subscription Search Profile.Course</sys_name>
+        <sys_package display_value="Course Subscription" source="x_1540387_course_s">eef44d2683b452107e535855eeaad3e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Course Subscription">eef44d2683b452107e535855eeaad3e6</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_e3048aae83f852107e535855eeaad38e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-25 11:27:42</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

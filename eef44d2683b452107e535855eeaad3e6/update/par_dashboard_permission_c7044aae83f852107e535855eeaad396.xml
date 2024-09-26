@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Course Subscription">e504c6aea1f85210e7f4a1594b592ceb</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role display_value="x_1540387_course_s.learner_user" name="x_1540387_course_s.learner_user">6a26d5a283f452107e535855eeaad349</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-25 11:27:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c7044aae83f852107e535855eeaad396</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e504c6aea1f85210e7f4a1594b592ceb</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Course Subscription" source="x_1540387_course_s">eef44d2683b452107e535855eeaad3e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Course Subscription">eef44d2683b452107e535855eeaad3e6</sys_scope>
+        <sys_update_name>par_dashboard_permission_c7044aae83f852107e535855eeaad396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-25 11:27:40</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>
