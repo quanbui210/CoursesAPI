@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7246912e83f452107e535855eeaad38b" label="Course Subscription" max_length="40" name="x_1540387_course_s_course_subscription" text_index="true" type="collection">
+        <element label="Learner" mandatory="true" max_length="32" name="learner" reference="x_1540387_course_s_learner" type="reference"/>
+        <element label="Subscription Date" max_length="40" name="subscription_date" type="glide_date_time"/>
+        <element label="Course" mandatory="true" max_length="32" name="course" reference="x_1540387_course_s_course" type="reference"/>
+        <index name="index">
+            <element name="course"/>
+        </index>
+        <index name="index2">
+            <element name="learner"/>
+        </index>
+    </element>
+</database>

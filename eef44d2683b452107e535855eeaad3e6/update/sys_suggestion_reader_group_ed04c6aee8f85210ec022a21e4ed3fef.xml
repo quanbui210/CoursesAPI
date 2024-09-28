@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Course Subscription - Workspace Search">a904c6ae07f8521068a36f641e2d33e8</context_config_id>
+        <limit>5</limit>
+        <order>500</order>
+        <section_header>Recently viewed</section_header>
+        <suggestion_type>User History Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-25 11:27:34</sys_created_on>
+        <sys_id>ed04c6aee8f85210ec022a21e4ed3fef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User History Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Course Subscription" source="x_1540387_course_s">eef44d2683b452107e535855eeaad3e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Course Subscription">eef44d2683b452107e535855eeaad3e6</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_ed04c6aee8f85210ec022a21e4ed3fef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-25 11:27:34</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

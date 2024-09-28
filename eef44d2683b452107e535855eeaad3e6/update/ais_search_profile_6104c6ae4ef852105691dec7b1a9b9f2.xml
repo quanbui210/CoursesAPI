@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Course Subscription</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>course-subscription Search Profile</label>
+        <name>x_1540387_course_s_muqchuke_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-25 11:27:34</sys_created_on>
+        <sys_id>6104c6ae4ef852105691dec7b1a9b9f2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>course-subscription Search Profile</sys_name>
+        <sys_package display_value="Course Subscription" source="x_1540387_course_s">eef44d2683b452107e535855eeaad3e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Course Subscription">eef44d2683b452107e535855eeaad3e6</sys_scope>
+        <sys_update_name>ais_search_profile_6104c6ae4ef852105691dec7b1a9b9f2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-26 04:00:01</sys_updated_on>
+    </ais_search_profile>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Course">2b048aae83f852107e535855eeaad38a</ais_search_source>
+        <label>Course</label>
+        <name>Course</name>
+        <order>100</order>
+        <search_context_config display_value="Course Subscription AI Search Configuration">2104c6ae7df85210c72a0c4f7c0338e9</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-25 11:27:42</sys_created_on>
+        <sys_id>b7048aae83f852107e535855eeaad3c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Course</sys_name>
+        <sys_package display_value="Course Subscription" source="x_1540387_course_s">eef44d2683b452107e535855eeaad3e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Course Subscription">eef44d2683b452107e535855eeaad3e6</sys_scope>
+        <sys_update_name>sys_search_filter_b7048aae83f852107e535855eeaad3c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-25 11:27:42</sys_updated_on>
+    </sys_search_filter>
+</record_update>

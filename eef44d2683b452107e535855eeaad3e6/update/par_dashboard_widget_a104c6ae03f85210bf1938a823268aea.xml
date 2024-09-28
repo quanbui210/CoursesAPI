@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">2904c6ae80f852103052eb1a3bf90bea</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"scoreSize":"md","headingPosition":"top","sparklineStyle":"area","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":true,"enableRealTimeUpdate":true,"showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Course","sourceType":"table","tableOrViewName":"x_1540387_course_s_course","filterQuery":"","id":"dGFibGV0YXNrMTY1Mzg0MjI1MTUxMQ==","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Critical Tasks","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV0YXNrMTY1Mzg0MjI1MTUxMQ==","id":"ZEdGaWJHVjBZWE5yTVRZMU16ZzBNakkxTVRVeE1RPT0xNjUzODQyMjUyNzkw","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableDrilldown":true,"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default","hideMatrixAggregate":false,"newReporting":false,"configVersion":"23.0.0-ci-SNAPSHOT","filterConfigurations":[]}</component_props>
+        <h>9</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-25 11:27:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a104c6ae03f85210bf1938a823268aea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Course Subscription" source="x_1540387_course_s">eef44d2683b452107e535855eeaad3e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Course Subscription">eef44d2683b452107e535855eeaad3e6</sys_scope>
+        <sys_update_name>par_dashboard_widget_a104c6ae03f85210bf1938a823268aea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-25 11:27:40</sys_updated_on>
+        <visualization/>
+        <w>16</w>
+        <widget_props/>
+        <x>32</x>
+        <y>3</y>
+    </par_dashboard_widget>
+</record_update>
