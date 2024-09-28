@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-09-25 19:11:46</sys_created_on>
-            <sys_id>a54e67ea833492107e535855eeaad39c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>course_image</sys_name>
             <sys_package display_value="Course Subscription" source="x_1540387_course_s">eef44d2683b452107e535855eeaad3e6</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-09-25 19:11:46</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e72e6bea833492107e535855eeaad365</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-09-25 19:11:46</sys_updated_on>

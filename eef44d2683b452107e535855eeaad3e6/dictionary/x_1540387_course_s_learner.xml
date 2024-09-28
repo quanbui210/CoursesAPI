@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f1659d2a83f452107e535855eeaad384" label="Learner" max_length="40" name="x_1540387_course_s_learner" text_index="true" type="collection">
+        <element label="User Account" mandatory="true" max_length="32" name="user_account" reference="sys_user" type="reference"/>
+        <element label="Admission Date" max_length="40" name="admission_date" type="glide_date_time"/>
+        <index name="index">
+            <element name="user_account"/>
+        </index>
+    </element>
+</database>

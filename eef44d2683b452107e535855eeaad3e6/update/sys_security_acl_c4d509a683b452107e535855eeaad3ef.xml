@@ -6,24 +6,24 @@
         <applies_to/>
         <condition/>
         <decision_type>allow</decision_type>
-        <description/>
+        <description>Allow delete for records in x_1540387_course_s_course, for users with role admin, and if users satisfy the conditions of the Security Attribute "x_1540387_course_s__ACL_c4d509a683b452107e535855eeaad3ef".</description>
         <local_or_existing>Local</local_or_existing>
         <name>x_1540387_course_s_course</name>
         <operation display_value="delete">delete</operation>
         <script/>
-        <security_attribute/>
+        <security_attribute display_value="x_1540387_course_s__ACL_c4d509a683b452107e535855eeaad3ef">8f5ef3cb83bc16107e535855eeaad312</security_attribute>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-25 06:55:45</sys_created_on>
         <sys_id>c4d509a683b452107e535855eeaad3ef</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_1540387_course_s_course</sys_name>
         <sys_package display_value="Course Subscription" source="x_1540387_course_s">eef44d2683b452107e535855eeaad3e6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Course Subscription">eef44d2683b452107e535855eeaad3e6</sys_scope>
         <sys_update_name>sys_security_acl_c4d509a683b452107e535855eeaad3ef</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-25 06:55:45</sys_updated_on>
+        <sys_updated_on>2024-09-27 09:39:01</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
